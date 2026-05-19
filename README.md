@@ -14,4 +14,3 @@ Classes: Hypopnea, Normal, Obstructive Apnea, Other
 **Note:** Low precision/recall is expected due to heavy class imbalance
 (~91% Normal windows). Class weights were used to partially address this.
 
-**Note:**i have used AI (claude) to write parts of the code .I am capable of explaining any part if required .
